@@ -1,0 +1,12 @@
+{
+    "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+    "extends": [
+        "config:recommended",
+        "group:allNonMajor"
+    ],
+    "timezone": "Asia/Novosibirsk",
+    "schedule": [
+        // Runs every Friday at 19:00 (7:00 PM)
+        "0 19 * * 5" 
+    ]
+}
