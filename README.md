@@ -7,7 +7,7 @@ Add this into renovate.json5:
 {
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
   "extends": [
-    "github>geforsen/renovate-config",
+    "github>geforsen/renovate-config/default.json5",
   ]
 }
 ```
