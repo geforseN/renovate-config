@@ -15,3 +15,4 @@ Add this into renovate.json5:
 ## Useful Links
 
 - [Configuration Options](https://renovatebot.com/docs/configuration-options)
+- [Shareable Config Presets](https://docs.renovatebot.com/config-presets)
